@@ -12,3 +12,9 @@ Hi there! My name is Riyad Bin Rafiq, and I am a second-year PhD student in the 
 
 News
 ------
+• Our research has been featured
+• Presented gesture paper on ACRM
+• Vision paper accepted
+• ML validation paper accepted
+• Talked about ML validation in Tapia
+• Presented ml validation poster
