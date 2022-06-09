@@ -11,5 +11,5 @@ Abstract: The impact of Artificial Intelligence (AI) on health care has been dra
 
 [Download paper here](http://riyadrafiq.github.io/files/ml-validation.pdf)
 
-Recommended citation: Riyad Bin Rafiq, Francois Modave, Shion Guha, and Mark V. Albert. 2020. Validation Methods to Promote Real-world Applicability of Machine Learning in Medicine. In 2020 3rd International Conference on Digital Medicine and Image Processing (DMIP '20). Association for Computing Machinery, New York, NY, USA, 13–19. https://doi.org/10.1145/3441369.3441372
+Recommended citation: Bin Rafiq, Riyad, et al. "Validation Methods to Promote Real-world Applicability of Machine Learning in Medicine." 2020 3rd International Conference on Digital Medicine and Image Processing. 2020.
 
