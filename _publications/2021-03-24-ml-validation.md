@@ -1,7 +1,7 @@
 ---
 title: "Validation Methods to Promote Real-world Applicability of Machine Learning in Medicine"
 collection: publications
-permalink: /publication/2021-03-24-ml-validation
+permalink: /publications/2021-03-24-ml-validation
 excerpt: 'The impact of Artificial Intelligence (AI) on health care has been dramatic; however, there is a considerable degree of skepticism among clinicians about the real-world applicability of advanced predictive models; for this reason, it is particularly important to emphasize the need for proper model validation in machine learning.'
 date: 2021-03-24
 venue: 'DMIP '20: 2020 3rd International Conference on Digital Medicine and Image Processing'
