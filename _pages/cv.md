@@ -16,26 +16,33 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Teaching Assistant, University of North Texas Fall'21 - Presenet
+  * Machine Learning (CSCE 5215, Spring'22)
+  * Algorithms (CSCE 4110, Spring'22)  
+  * Computer Science I (CSCE 1030, Fall'21)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Research Assistant, Biomedical AI Lab, University of North Texas, Spring'21 - Present
+  * Personalized gesture recognition system for the speech-impaired people using accelerometer data
+  * Machine learning validation in medicine
+  * Supervisor: Dr. Mark V. Albert
+
+* Software Engineer, JMJ CODE, Sep'20 - Dec'20
+  * Web application developer
+  * Technologies: ASP.NET, HTML, CSS, Javascript, MySQL 
+
+* Research student, Jan'18 - Mar'19
+  * A mobile application to compute the measurements of foot automatically using 2D image and 3D foot model
+  * Supervisor: Dr. Ashad Kabir 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine learning and Deep learning
+  * Python
+  * TensorFlow
+  * scikit-learn
+* C, C++
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -56,3 +63,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
