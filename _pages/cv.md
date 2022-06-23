@@ -36,11 +36,20 @@ Work experience
   
 Skills
 ======
+* C/C++
 * Machine learning and Deep learning
   * Python
   * TensorFlow
   * scikit-learn
-* C, C++
+* Application development
+
+
+Relevant courses and certificates
+======
+* Deep Learning; Neuromatch Academy, Summer' 2021
+* Deep Learning Specialization; Coursera, 2020
+* Machine learning;  Coursera, 2019
+
 
 <!-- Publications
 ======
