@@ -26,7 +26,7 @@ Work experience
   * Machine learning validation in medicine
   * Supervisor: Dr. [Mark V. Albert](https://sites.google.com/view/biomed-ai/people/mark-v-albert)
 
-* Software Engineer, JMJ CODE, Sep'20 - Dec'20
+* Software Engineer, JMJ CODE, Oct'20 - Dec'20
   * Web application developer
   * Technologies: ASP.NET, HTML, CSS, Javascript, MySQL 
 
