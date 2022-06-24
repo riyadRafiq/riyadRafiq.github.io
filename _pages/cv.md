@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science and Engineering, University of North Texas, 2021 - Present
-* B.Sc. in Computer Science and Engineering, Chittagong University of Engineering and Technology, Bangladesh, 2014-2019
+* B.Sc. in Computer Science and Engineering, Chittagong University of Engineering and Technology, Bangladesh, 2014 - 2019
 
 Work experience
 ======
@@ -41,14 +41,13 @@ Skills
   * Python
   * TensorFlow
   * scikit-learn
-* Application development
-
+* Mobile and web application development
 
 Relevant courses and certificates
 ======
-* Deep Learning; Neuromatch Academy, Summer' 2021
-* Deep Learning Specialization; Coursera, 2020
-* Machine learning;  Coursera, 2019
+* [Deep Learning](https://portal.neuromatchacademy.org/certificate/4999117d-8189-456f-a685-e1df9246d2fe); Neuromatch Academy, Summer' 2021
+* [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/WEPXPVQ3XVEQ); Coursera, 2020
+* [Machine learning](https://www.coursera.org/account/accomplishments/certificate/FMKVVJQVFN3C); Coursera, 2019
 
 
 <!-- Publications
