@@ -12,6 +12,7 @@ Hi there! My name is Riyad Bin Rafiq, and I am a second-year PhD student at the 
 
 News
 ------
+- April 2022: [UNT Professor and Students Create an App for People Unable to Speak and with Motor Disabilities](https://www.northtexastelevision.com/post/unt-professor-and-students-create-an-app-to-improve-communication-among-the-disabled) - Our research including interview has been covered by North Texas Television.<br/>
 - April 2022: [Professor develops TalkMotion app for those unable to speak](https://www.ntdaily.com/professor-develops-talkmotion-app-for-those-unable-to-speak/) - Our research has been featured as a news article in North Texas daily.<br/> 
 - March 2022: [UNT professor works to improve communication for people unable to speak and with limited mobility](https://news.unt.edu/news-releases/unt-professor-works-improve-communication-people-unable-speak-and-limited-mobility) - Our research work has been featured in UNT News.<br/>
 - February 2022: The book, ["Bridging Human Intelligence and Artificial Intelligence"](https://link.springer.com/book/10.1007/978-3-030-84729-6) by Springer is out now! I contributed to a chapter titled ["Transfer Learning: Leveraging Trained Models on Novel Tasks"](https://link.springer.com/chapter/10.1007/978-3-030-84729-6_4) with my advisor Dr. Mark V. Albert.<br/>
