@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /Riyad Bin Rafiq_Resume.pdf/
+permalink: //
 author_profile: true
 redirect_from:
   - /resume
