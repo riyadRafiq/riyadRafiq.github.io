@@ -17,6 +17,7 @@ Education
 Work experience
 ======
 * Graduate Teaching Assistant, University of North Texas, Fall'21 - Presenet
+  * AI for Wearables and Healthcare (CSCE 5280, Fall'22)
   * Machine Learning (CSCE 5215, Spring'22)
   * Algorithms (CSCE 4110, Spring'22)  
   * Computer Science I (CSCE 1030, Fall'21)
@@ -34,12 +35,13 @@ Work experience
   * A mobile application to compute the measurements of foot automatically using 2D image and 3D foot model
   * Supervisor: Dr. [Ashad Kabir](https://bjbs.csu.edu.au/schools/computing-mathematics-engineering/staff/profiles/senior-lecturers/ashad-kabir) 
   
-Skills
+Technical knowledge
 ======
 * C/C++
 * Machine learning and Deep learning
   * Python
   * TensorFlow
+  * Keras
   * scikit-learn
 * Mobile and web application development
 
