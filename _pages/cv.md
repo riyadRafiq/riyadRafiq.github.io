@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science and Engineering, University of North Texas, 2021 - Present
-* B.Sc. in Computer Science and Engineering, Chittagong University of Engineering and Technology, Bangladesh, 2014 - 2019
+* B.Sc. in Computer Science and Engineering, Chittagong University of Engineering and Technology, Bangladesh, 2014 - 2018
 
 Work experience
 ======
