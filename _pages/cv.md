@@ -23,7 +23,7 @@ Work experience
   * Computer Science I (CSCE 1030, Fall'21)
 
 * Graduate Research Assistant, [Biomedical AI Lab](https://www.biomed-ai.com/home), University of North Texas, Spring'21 - Present
-  * Personalized gesture recognition system for the speech-impaired people using accelerometer data
+  * Customized gesture recognition system for the speech-impaired people using accelerometer data
   * Machine learning validation in medicine
   * Supervisor: Dr. [Mark V. Albert](https://sites.google.com/view/biomed-ai/people/mark-v-albert)
 
