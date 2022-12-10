@@ -12,6 +12,7 @@ Hi there! My name is Riyad Bin Rafiq, and I am a second-year PhD student at the 
 
 News
 ------
+- **December 2022:** Our research paper titled ["OptiFit: Computer-Vision-Based Smartphone Application to Measure the Foot from Images and 3D Scans"](https://www.mdpi.com/1424-8220/22/23/9554) has been accepted to MDPI sensors.
 - **November 2022:** I have passed Ph.D. qualifying exam.
 - **April 2022:** [UNT Professor and Students Create an App for People Unable to Speak and with Motor Disabilities](https://www.northtexastelevision.com/post/unt-professor-and-students-create-an-app-to-improve-communication-among-the-disabled) - Our research including interview has been covered by North Texas Television
 - **April 2022:** [Professor develops TalkMotion app for those unable to speak](https://www.ntdaily.com/professor-develops-talkmotion-app-for-those-unable-to-speak/) - Our research has been featured as a news article in North Texas daily. 
