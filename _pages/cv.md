@@ -16,22 +16,23 @@ Education
 
 Work experience
 ======
-* Graduate Teaching Assistant, University of North Texas, Fall'21 - Presenet
+* **Graduate Teaching Assistant**, University of North Texas, Fall'21 - Presenet
+  * Deep Learning (CSCE 5218, Spring'23)
   * AI for Wearables and Healthcare (CSCE 5280, Fall'22)
   * Machine Learning (CSCE 5215, Spring'22)
   * Algorithms (CSCE 4110, Spring'22)  
   * Computer Science I (CSCE 1030, Fall'21)
 
-* Graduate Research Assistant, [Biomedical AI Lab](https://www.biomed-ai.com/home), University of North Texas, Spring'21 - Present
+* **Graduate Research Assistant**, [Biomedical AI Lab](https://www.biomed-ai.com/home), University of North Texas, Spring'21 - Present
   * Customized gesture recognition system for the speech-impaired people using accelerometer data
   * Machine learning validation in medicine
   * Supervisor: Dr. [Mark V. Albert](https://sites.google.com/view/biomed-ai/people/mark-v-albert)
 
-* Software Engineer, JMJ CODE, Bangladesh, Oct'20 - Dec'20
+* **Software Engineer**, JMJ CODE, Bangladesh, Oct'20 - Dec'20
   * Web application developer
   * Technologies: ASP.NET, HTML, CSS, Javascript, MySQL 
 
-* Research student, Jan'18 - Mar'19
+* **Research student**, Jan'18 - Mar'19
   * A mobile application to automatically measure the foot dimensions using 2D image and 3D foot model
   * Supervisor: Dr. [Ashad Kabir](https://bjbs.csu.edu.au/schools/computing-mathematics-engineering/staff/profiles/senior-lecturers/ashad-kabir) 
   
