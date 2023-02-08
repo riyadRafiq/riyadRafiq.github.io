@@ -34,7 +34,7 @@ Work experience
 
 * **Research student**, Jan'18 - Mar'19
   * A mobile application to automatically measure the foot dimensions using 2D image and 3D foot model
-  * Supervisor: Dr. [Ashad Kabir](https://bjbs.csu.edu.au/schools/computing-mathematics-engineering/staff/profiles/senior-lecturers/ashad-kabir) 
+  * Supervisor: Dr. [Ashad Kabir](https://bjbs.csu.edu.au/schools/computing-mathematics-engineering/staff/profiles/professorial-staff/ashad-kabir) 
   
 Technical knowledge
 ======
