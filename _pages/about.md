@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Riyad Bin Rafiq, and I am a PhD candidate at the [Biomedical AI Lab](https://www.biomed-ai.com/home) in the [Department of Computer Science and Engineering](https://computerscience.engineering.unt.edu/), [University of North Texas](https://www.unt.edu/), supervised by [Dr. Mark V. Albert](https://sites.google.com/view/biomed-ai/people/mark-v-albert). My research applies deep learning in the field of Biomedical application. Within this area, I am particularly interested in **developing a customized gesture recognition system using sensor data for speech-impaired people, particularly those who lack fine motor skills**. It will be used to generate audible responses using custom, flexible hand gestures for individuals with speech impairment. Previously, I obtained my undergraduate degree in Computer Science and Engineering at [Chittagong University of Engineering and Technology](https://www.cuet.ac.bd/), Bangladesh. 
+I am a PhD candidate in the [Computer Science and Engineering](https://computerscience.engineering.unt.edu/) department at the [University of North Texas](https://www.unt.edu/), where I am also serving as a Graduate Research Assistant in the [Biomedical AI lab](https://www.biomed-ai.com/home). My research focuses on developing a gesture recognition system for speech-impaired individuals, with the goal of improving their ability to communicate. I am particularly interested in exploring the use of transfer learning and meta-learning for custom gesture learning. Under the supervision of [Dr. Mark V. Albert](https://sites.google.com/view/biomed-ai/people/mark-v-albert), I am utilizing my expertise in deep learning and AI to make a real-world impact and improve the lives of those in need.
+
+Previously, I completed my Bachelor's degree in Computer Science and Engineering at the [Chittagong University of Engineering and Technology](https://www.cuet.ac.bd/) in Bangladesh. During my undergraduate studies, I developed a vision-based interpreter for Bangla Sign Language users, further solidifying my commitment to using technology for social good.
+
+I am eager to continue exploring new and innovative solutions in the field of biomedical AI, and I am always looking for opportunities to collaborate with others who share my passion.
 
 News
 ------
