@@ -16,6 +16,7 @@ I am eager to continue exploring new and innovative solutions in the field of bi
 
 News
 ------
+- **February 2023:** Our research paper titled "Feasibility of PROMIS using Computerized Adaptive Testing during Inpatient Rehabilitation" has been accepted to Journal of Patient-Reported Outcomes.
 - **December 2022:** Our research paper titled ["OptiFit: Computer-Vision-Based Smartphone Application to Measure the Foot from Images and 3D Scans"](https://www.mdpi.com/1424-8220/22/23/9554) has been accepted to MDPI sensors.
 - **November 2022:** I have passed Ph.D. qualifying exam.
 - **April 2022:** [UNT Professor and Students Create an App for People Unable to Speak and with Motor Disabilities](https://www.northtexastelevision.com/post/unt-professor-and-students-create-an-app-to-improve-communication-among-the-disabled) - An interview regarding our research has been covered by North Texas Television.
