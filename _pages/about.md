@@ -17,14 +17,14 @@ I am eager to continue exploring new and innovative solutions in the field of bi
 News
 ------
 - **March 2023:** One paper accepted to the ICHI 2023.
-- **February 2023:** One research article accepted at Journal of Patient-Reported Outcomes.
-- **December 2022:** [Research paper](https://www.mdpi.com/1424-8220/22/23/9554) accepted at MDPI sensors.
+- **February 2023:** One research article accepted at the Journal of Patient-Reported Outcomes.
+- **December 2022:** One research paper is accepted at the MDPI sensors.
 - **November 2022:** I have passed Ph.D. qualifying exam.
 - **April 2022:** Our research has been highlighted in the media: [North Texas Television](https://www.northtexastelevision.com/post/unt-professor-and-students-create-an-app-to-improve-communication-among-the-disabled), [North Texas Daily](https://www.ntdaily.com/professor-develops-talkmotion-app-for-those-unable-to-speak/), [UNT News](https://news.unt.edu/news-releases/unt-professor-works-improve-communication-people-unable-speak-and-limited-mobility).
-- **February 2022:** [Book chapter](https://link.springer.com/chapter/10.1007/978-3-030-84729-6_4) has been published.
-- **September 2021:** Presented our research poster titled ["A Gesture-to-Speech Recognition Mobile Application Prototype"](https://www.sciencedirect.com/science/article/pii/S0003999321012831) at the [ACRM 2021](https://acrm.org/meetings/2021-annual-conference/).[Link](https://drive.google.com/file/d/1fhAtlYBALeYWYc0jBJgnK-GKQOB6CxaP/view?usp=sharing).
-- **August 2021:** [Undergrad research work](https://ieeexplore.ieee.org/abstract/document/9708141) has been accepted to the ICACC-2021.
+- **February 2022:** Book chapter has been published.
+- **September 2021:** Presented a research poster at the [ACRM 2021](https://acrm.org/meetings/2021-annual-conference/).[[Presentation video]](https://drive.google.com/file/d/1fhAtlYBALeYWYc0jBJgnK-GKQOB6CxaP/view?usp=sharing).
+- **August 2021:** Undergrad research work has been accepted to the ICACC-2021.
 - **June 2021:** I have been accepted to participate in the 3-week "NMA-Deep Learning" course offered by [Neuromatch Academy](https://academy.neuromatch.io/).
-- **October 2020:** One [paper](https://dl.acm.org/doi/abs/10.1145/3441369.3441372) accepted to the DMIP-2020.
-- **September 2020:** I, along with other Machine Learning researchers organized a technical session titled ["Best Practices for Validating Machine Learning in Medicine"](https://tapia.harmonyapp.com/schedule/friday-september-18-2020/200pm-315pm/best-practices-for-validating-machine-learning-in-medicine/) at the 2020 Tapia Conference.[Session video](https://www.youtube.com/watch?v=YrtqujFsUco&ab_channel=TheBiomedicalAILabatUNT).
+- **October 2020:** One paper is accepted to the DMIP-2020.
+- **September 2020:** I, along with other Machine Learning researchers organized a technical session titled ["Best Practices for Validating Machine Learning in Medicine"](https://tapia.harmonyapp.com/schedule/friday-september-18-2020/200pm-315pm/best-practices-for-validating-machine-learning-in-medicine/) at the 2020 Tapia Conference. [[Session video]](https://www.youtube.com/watch?v=YrtqujFsUco&ab_channel=TheBiomedicalAILabatUNT).
 - **September 2020:** Presented one research poster at the 2020 Tapia Conference. [Link](https://drive.google.com/file/d/1-ZCSfBYEvfRfv2AwdSI3CGROKYaP6-eW/view?usp=sharing).
