@@ -27,4 +27,4 @@ News
 - **June 2021:** I have been accepted to participate in the 3-week "NMA-Deep Learning" course offered by [Neuromatch Academy](https://academy.neuromatch.io/).
 - **October 2020:** One paper is accepted to the DMIP-2020.
 - **September 2020:** I, along with other Machine Learning researchers organized a technical session titled ["Best Practices for Validating Machine Learning in Medicine"](https://tapia.harmonyapp.com/schedule/friday-september-18-2020/200pm-315pm/best-practices-for-validating-machine-learning-in-medicine/) at the 2020 Tapia Conference. [[Session video]](https://www.youtube.com/watch?v=YrtqujFsUco&ab_channel=TheBiomedicalAILabatUNT).
-- **September 2020:** Presented one research poster at the 2020 Tapia Conference. [Link](https://drive.google.com/file/d/1-ZCSfBYEvfRfv2AwdSI3CGROKYaP6-eW/view?usp=sharing).
+- **September 2020:** Presented one research poster at the 2020 Tapia Conference. [[Presentation video]](https://drive.google.com/file/d/1-ZCSfBYEvfRfv2AwdSI3CGROKYaP6-eW/view?usp=sharing).
