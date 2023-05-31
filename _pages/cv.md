@@ -4,6 +4,26 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
+  - /wordpress/cv/
+---
+
+
+{% include base_path %}
+{% capture written_label %}'None'{% endcapture %}
+
+If the embedded PDF below does not load, you can <u><a href="https://riyadrafiq.github.io/riyad-cv.pdf">download it here.</a></u>
+<br/>
+
+<embed src="https://riyadrafiq.github.io/riyad-cv.pdf" type="application/pdf" width="100%" />
+
+
+
+<!-- ---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
   - /resume
 ---
 
@@ -50,7 +70,7 @@ Relevant courses and certificates
 ======
 * [Deep Learning](https://portal.neuromatchacademy.org/certificate/4999117d-8189-456f-a685-e1df9246d2fe); Neuromatch Academy, Summer' 2021
 * [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/WEPXPVQ3XVEQ); Coursera, 2020
-* [Machine learning](https://www.coursera.org/account/accomplishments/certificate/FMKVVJQVFN3C); Coursera, 2019
+* [Machine learning](https://www.coursera.org/account/accomplishments/certificate/FMKVVJQVFN3C); Coursera, 2019 -->
 
 
 <!-- Publications
