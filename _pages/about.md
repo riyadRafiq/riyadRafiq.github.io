@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the [Computer Science and Engineering](https://computerscience.engineering.unt.edu/) department at the [University of North Texas](https://www.unt.edu/), where I am also serving as a Graduate Research Assistant in the [Biomedical AI lab](https://www.biomed-ai.com/home). My research focuses on developing a gesture recognition system for speech-impaired individuals, with the goal of improving their ability to communicate. I am particularly interested in exploring the use of transfer learning, continual learning and meta-learning for custom gesture learning. Under the supervision of [Dr. Mark V. Albert](https://sites.google.com/view/biomed-ai/people/mark-v-albert) and [Dr. Weishi Shi](https://scholar.google.com/citations?user=nAPZIPsAAAAJ&hl=en), I am utilizing my expertise in deep learning and AI to make a real-world impact and improve the lives of those in need.
+I am a PhD candidate in the [Computer Science and Engineering](https://computerscience.engineering.unt.edu/) department at the [University of North Texas](https://www.unt.edu/), where I am also serving as a Graduate Research Assistant in the [Biomedical AI lab](https://www.biomed-ai.com/home). My research focuses on developing a gesture recognition system using wearable sensor data for speech-impaired individuals, with the goal of improving their ability to communicate. I am particularly interested in exploring the use of transfer learning, continual learning, and meta-learning for custom gesture learning. Under the supervision of [Dr. Mark V. Albert](https://sites.google.com/view/biomed-ai/people/mark-v-albert) and [Dr. Weishi Shi](https://scholar.google.com/citations?user=nAPZIPsAAAAJ&hl=en), I am utilizing my expertise in deep learning and AI to make a real-world impact and improve the lives of those in need.
 
 Previously, I completed my Bachelor's degree in Computer Science and Engineering at the [Chittagong University of Engineering and Technology](https://www.cuet.ac.bd/) in Bangladesh. During my undergraduate studies, I developed a vision-based interpreter for Bangla Sign Language users, further solidifying my commitment to using technology for social good.
-
-I am eager to continue exploring new and innovative solutions in the field of biomedical AI, and I am always looking for opportunities to collaborate with others who share my passion.
 
 News
 ------
 - **March 2023:** One paper accepted to the ICHI 2023.
-- **February 2023:** One research article accepted at the Journal of Patient-Reported Outcomes.
+- **February 2023:** One research article was accepted at the Journal of Patient-Reported Outcomes.
 - **December 2022:** One research paper is accepted at the MDPI sensors.
 - **November 2022:** I have passed Ph.D. qualifying exam.
 - **April 2022:** Our research has been highlighted in the media: [North Texas Television](https://www.northtexastelevision.com/post/unt-professor-and-students-create-an-app-to-improve-communication-among-the-disabled), [North Texas Daily](https://www.ntdaily.com/professor-develops-talkmotion-app-for-those-unable-to-speak/), [UNT News](https://news.unt.edu/news-releases/unt-professor-works-improve-communication-people-unable-speak-and-limited-mobility).
