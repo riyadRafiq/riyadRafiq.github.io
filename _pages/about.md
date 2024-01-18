@@ -16,7 +16,7 @@ News
 - **February 2023:** One research paper was accepted by the Journal of Patient-Reported Outcomes.
 - **December 2022:** One research paper is accepted by the MDPI sensors.
 - **November 2022:** I have passed the Ph.D. qualifying exam.
-- **April 2022:** Our research has been highlighted in the media: [North Texas Television](https://drive.google.com/drive/folders/1R-uj8prAVvD_uNgFRwrRgXR5ic6PgDML), [UNT News](https://news.unt.edu/news-releases/unt-professor-works-improve-communication-people-unable-speak-and-limited-mobility), [North Texas Daily](https://www.ntdaily.com/professor-develops-talkmotion-app-for-those-unable-to-speak/).
+- **April 2022:** Our research has been highlighted in the media: [North Texas Television (https://drive.google.com/file/d/1ebNgWJzdmOltDRo5dYI0Fm1hzkN7LXQT/view?usp=drive_link), [UNT News](https://news.unt.edu/news-releases/unt-professor-works-improve-communication-people-unable-speak-and-limited-mobility), [North Texas Daily](https://www.ntdaily.com/professor-develops-talkmotion-app-for-those-unable-to-speak/).
 - **February 2022:** Book chapter has been published.
 - **September 2021:** Presented a research poster at the [ACRM 2021](https://acrm.org/meetings/2021-annual-conference/).[[Presentation video]](https://drive.google.com/file/d/1fhAtlYBALeYWYc0jBJgnK-GKQOB6CxaP/view?usp=sharing).
 - **August 2021:** Undergrad research work has been accepted by the ICACC-2021.
