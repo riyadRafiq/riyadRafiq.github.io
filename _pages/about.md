@@ -20,7 +20,7 @@ News
 - **February 2022:** Book chapter has been published.
 - **September 2021:** Presented a research poster at the [ACRM 2021](https://acrm.org/meetings/2021-annual-conference/).[[Presentation video]](https://drive.google.com/file/d/1fhAtlYBALeYWYc0jBJgnK-GKQOB6CxaP/view?usp=sharing).
 - **August 2021:** Undergrad research work has been accepted in ICACC-2021.
-- **June 2021:** I have been selected to participate in the 3-week "NMA-Deep Learning" course offered by [Neuromatch Academy](https://academy.neuromatch.io/).
+- **June 2021:** Selected to participate in the 3-week "NMA-Deep Learning" course offered by [Neuromatch Academy](https://academy.neuromatch.io/).
 - **October 2020:** One research paper is accepted in DMIP-2020.
 - **September 2020:** I, along with other Machine Learning researchers organized a technical session titled ["Best Practices for Validating Machine Learning in Medicine"](https://tapia.harmonyapp.com/schedule/friday-september-18-2020/200pm-315pm/best-practices-for-validating-machine-learning-in-medicine/) at the 2020 Tapia Conference. [[Session video]](https://www.youtube.com/watch?v=YrtqujFsUco&ab_channel=TheBiomedicalAILabatUNT).
 - **September 2020:** Presented one research poster at the 2020 Tapia Conference. [[Presentation video]](https://drive.google.com/file/d/1-ZCSfBYEvfRfv2AwdSI3CGROKYaP6-eW/view?usp=sharing).
