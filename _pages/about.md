@@ -12,7 +12,8 @@ I am a Ph.D. candidate in the [Computer Science and Engineering](https://compute
 
 News
 ------
-- **May 2024:** Paper accepted in IJCAI 2024.
+- **July 2024:** The Ph.D. proposal is done.
+- **May 2024:** One research paper is accepted in IJCAI 2024.
 - **March 2023:** One research paper is accepted in ICHI 2023.
 - **February 2023:** One research paper is accepted by the Journal of Patient-Reported Outcomes.
 - **December 2022:** One research paper is accepted by the MDPI sensors.
