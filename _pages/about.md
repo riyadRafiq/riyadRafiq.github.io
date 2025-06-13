@@ -12,7 +12,7 @@ I am a Ph.D. candidate in the [Computer Science and Engineering](https://compute
 
 Recent News
 ------
-- **January 2025:** I successfully passed the coding rounds for the Software Engineer, Machine Learning Internship position at Meta for Summer 2025, but unfortunately, due to headcount limitations, I was not matched with a team.    
+- **January 2025:** I successfully passed the coding rounds for the Software Engineer, Machine Learning Internship position at **Meta** for Summer 2025, but unfortunately, due to headcount limitations, I was not matched with a team.    
 - **July 2024:** My Ph.D. proposal is officially done.
 - **May 2024:** One research paper is accepted in IJCAI 2024.
 - **March 2023:** One research paper is accepted in ICHI 2023.
