@@ -32,3 +32,13 @@ I am a Ph.D. candidate in the [Computer Science and Engineering](https://compute
     <li> **September 2020:** Presented one research poster at the 2020 Tapia Conference. [[Presentation video]](https://drive.google.com/file/d/1-ZCSfBYEvfRfv2AwdSI3CGROKYaP6-eW/view?usp=sharing). </li>
   </div>
 </ul>
+
+<button id="toggle-news-btn" style="
+  border:1px solid #007bff;
+  background:none;
+  padding:6px 12px;
+  border-radius:4px;
+  cursor:pointer;
+  color:#007bff;">
+  Show More
+</button>
