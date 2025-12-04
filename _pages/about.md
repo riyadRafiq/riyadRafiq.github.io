@@ -49,11 +49,13 @@ document.addEventListener("DOMContentLoaded", function () {
   const btn = document.getElementById("toggle-news-btn");
 
   btn.onclick = function () {
+    const isHidden = hiddenItems[0].style.display === "none";
+
     hiddenItems.forEach(item => {
-      item.style.display = item.style.display === "none" ? "list-item" : "none";
+      item.style.display = isHidden ? "list-item" : "none";
     });
 
-    btn.textContent = (btn.textContent === "Show More") ? "Show Less" : "Show More";
+    btn.textContent = isHidden ? "Show Less" : "Show More";
   };
 });
 </script>
