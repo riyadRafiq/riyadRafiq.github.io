@@ -28,7 +28,7 @@ I am a Ph.D. candidate in the [Computer Science and Engineering](https://compute
   <li class="extra-news" style="display:none;"> June 2021: Selected to participate in the 3-week "NMA-Deep Learning" course offered by Neuromatch Academy. </li>
   <li class="extra-news" style="display:none;"> October 2020: One research paper is accepted in DMIP-2020. </li>
   <li class="extra-news" style="display:none;"> September 2020: I, along with other Machine Learning researchers, organized a technical session titled "Best Practices for Validating Machine Learning in Medicine" at the 2020 Tapia Conference. <a href="https://www.youtube.com/watch?v=YrtqujFsUco&ab_channel=TheBiomedicalAILabatUNT" target="_blank">Session video</a>. </li>
-  <li class="extra-news" style="display:none;"> September 2020: Presented one research poster at the 2020 Tapia Conference. <a href="https://drive.google.com/file/d/1-ZCSfBYEvfRfv2AwdSI3CGROKYaP6-eW/view?usp=sharing" target="_blank">Presentation</a>.    
+  <li class="extra-news" style="display:none;"> September 2020: Presented one research poster at the 2020 Tapia Conference. <a href="https://drive.google.com/file/d/1-ZCSfBYEvfRfv2AwdSI3CGROKYaP6-eW/view?usp=sharing" target="_blank">Presentation </a>. </li>    
 </ul>
 
 
