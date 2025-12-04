@@ -21,16 +21,16 @@ I am a Ph.D. candidate in the [Computer Science and Engineering](https://compute
   
   <li class="extra-news" style="display:none;"> December 2022: One research paper is accepted by the MDPI Sensors. </li>
   <li class="extra-news" style="display:none;"> November 2022: I have passed the Ph.D. qualifying exam. </li>
-  <li class="extra-news" style="display:none;"> April 2022: Our research has been highlighted in the media: <a href="https://drive.google.com/file/d/1ebNgWJzdmOltDRo5dYI0Fm1hzkN7LXQT/view?usp=drive_link" target="_blank">North Texas Television</a> | <a href="https://news.unt.edu/news-releases/unt-professor-works-improve-communication-people-unable-speak-and-limited-mobility" target="_blank">UNT News</a> | <a href="North Texas Daily](https://www.ntdaily.com/professor-develops-talkmotion-app-for-those-unable-to-speak/" target="_blank">UNT News</a> </li>
+  <li class="extra-news" style="display:none;"> April 2022: Our research has been highlighted in the media: <a href="https://drive.google.com/file/d/1ebNgWJzdmOltDRo5dYI0Fm1hzkN7LXQT/view?usp=drive_link" target="_blank">North Texas Television</a> | <a href="https://news.unt.edu/news-releases/unt-professor-works-improve-communication-people-unable-speak-and-limited-mobility" target="_blank">UNT News</a> | <a href="https://www.ntdaily.com/professor-develops-talkmotion-app-for-those-unable-to-speak/" target="_blank">North Texas Daily</a> </li>
   <li class="extra-news" style="display:none;"> February 2022: Book chapter has been published. </li>
-  <li class="extra-news" style="display:none;"> September 2021: Presented a research poster at the [ACRM 2021](https://acrm.org/meetings/2021-annual-conference/)[[Presentation video]](https://drive.google.com/file/d/1fhAtlYBALeYWYc0jBJgnK-GKQOB6CxaP/view?usp=sharing). </li>
+  <li class="extra-news" style="display:none;"> September 2021: Presented a research poster at the ACRM 2021. </li>
   <li class="extra-news" style="display:none;"> August 2021: Undergrad research work has been accepted in ICACC-2021. </li>
-  <li class="extra-news" style="display:none;"> June 2021: Selected to participate in the 3-week "NMA-Deep Learning" course offered by [Neuromatch Academy](https://academy.neuromatch.io/). </li>
+  <li class="extra-news" style="display:none;"> June 2021: Selected to participate in the 3-week "NMA-Deep Learning" course offered by Neuromatch Academy. </li>
   <li class="extra-news" style="display:none;"> October 2020: One research paper is accepted in DMIP-2020. </li>
-  <li class="extra-news" style="display:none;"> September 2020: I, along with other Machine Learning researchers, organized a technical session titled ["Best Practices for Validating Machine Learning in Medicine"](https://tapia.harmonyapp.com/schedule/friday-september-18-2020/200pm-315pm/best-practices-for-validating-machine-learning-in-medicine/) at the 2020 Tapia Conference. [[Session video]](https://www.youtube.com/watch?v=YrtqujFsUco&ab_channel=TheBiomedicalAILabatUNT). </li>
-  <li class="extra-news" style="display:none;"> September 2020: Presented one research poster at the 2020 Tapia Conference. [[Presentation video]](https://drive.google.com/file/d/1-ZCSfBYEvfRfv2AwdSI3CGROKYaP6-eW/view?usp=sharing). </li>
-    
+  <li class="extra-news" style="display:none;"> September 2020: I, along with other Machine Learning researchers, organized a technical session titled "Best Practices for Validating Machine Learning in Medicine" at the 2020 Tapia Conference. <a href="https://www.youtube.com/watch?v=YrtqujFsUco&ab_channel=TheBiomedicalAILabatUNT" target="_blank">Session video</a>. </li>
+  <li class="extra-news" style="display:none;"> September 2020: Presented one research poster at the 2020 Tapia Conference. <a href="https://drive.google.com/file/d/1-ZCSfBYEvfRfv2AwdSI3CGROKYaP6-eW/view?usp=sharing" target="_blank">Presentation</a>.    
 </ul>
+
 
 <button id="toggle-news-btn" style="
   border:1px solid #007bff;
