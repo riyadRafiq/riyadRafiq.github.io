@@ -86,7 +86,7 @@ author:
   location         : "Texas, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=M05WdNUAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=M05WdNUAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "riyadbinrafiq@my.unt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
