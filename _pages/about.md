@@ -13,13 +13,14 @@ I am a Ph.D. candidate in the [Computer Science and Engineering](https://compute
 <h2> Recent News </h2>
 ------
 <ul>
+  <li> <strong> May 2026: </strong> One paper accepted in ECML PKDD 2026 </li>
   <li> <strong> Mar 2026: </strong> I successfully defended my Ph.D. dissertation. </li>   
   <li> <strong> Jan 2025: </strong> I successfully passed the coding rounds for the Software Engineer, Machine Learning Internship position at <strong> Meta </strong> for Summer 2025, but unfortunately, due to headcount limitations, I was not matched with a team. </li> 
   <li> <strong> Jul 2024: </strong> My Ph.D. proposal is officially done. </li>
   <li> <strong> May 2024: </strong> One research paper is accepted in IJCAI 2024. </li>
   <li> <strong> Mar 2023: </strong> One research paper is accepted in ICHI 2023. </li>
-  <li> <strong> Feb 2023: </strong> One research paper is accepted by the Journal of Patient-Reported Outcomes. </li>
   
+  <li class="extra-news" style="display:none;"> <strong> Feb 2023: </strong> One research paper is accepted by the Journal of Patient-Reported Outcomes. </li>  
   <li class="extra-news" style="display:none;"> <strong> Dec 2022: </strong> One research paper is accepted by the MDPI Sensors. </li>
   <li class="extra-news" style="display:none;"> <strong> Nov 2022: </strong> I have passed the Ph.D. qualifying exam. </li>
   <li class="extra-news" style="display:none;"> <strong> Apr 2022: </strong> Our research has been highlighted in the media: <a href="https://drive.google.com/file/d/1ebNgWJzdmOltDRo5dYI0Fm1hzkN7LXQT/view?usp=drive_link" target="_blank">North Texas Television</a> | <a href="https://news.unt.edu/news-releases/unt-professor-works-improve-communication-people-unable-speak-and-limited-mobility" target="_blank">UNT News</a> | <a href="https://www.ntdaily.com/professor-develops-talkmotion-app-for-those-unable-to-speak/" target="_blank">North Texas Daily</a> </li>
