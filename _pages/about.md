@@ -13,7 +13,7 @@ I am a Ph.D. candidate in the [Computer Science and Engineering](https://compute
 <h2> Recent News </h2>
 ------
 <ul>
-  <li> <strong> Jun 2026: </strong> Conducted a workshop, AI for Digital Health Training. </li>
+  <li> <strong> Jun 2026: </strong> Conducted a workshop, AI for Digital Health Training at UNT. </li>
   <li> <strong> May 2026: </strong> One paper accepted in ECML PKDD 2026. </li>
   <li> <strong> Mar 2026: </strong> I successfully defended my Ph.D. dissertation. </li>   
   <li> <strong> Jan 2025: </strong> I successfully passed the coding rounds for the Software Engineer, Machine Learning Internship position at <strong> Meta </strong> for Summer 2025, but unfortunately, due to headcount limitations, I was not matched with a team. </li> 
